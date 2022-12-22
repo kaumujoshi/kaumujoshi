@@ -1,5 +1,4 @@
 ## Hi there, I'm Kaumu 👋
-
 Nice to e-meet you. I am a Foodie, Traveller, Engineer and Big Data Enthusiast!
 - 🔭 I’m currently doing a Masters in Big Data & Business Analytics at IE Business School.
 - 💼 I was a Program Manager for 3 years working on Big Data Projects within Supply Chain Operations.
